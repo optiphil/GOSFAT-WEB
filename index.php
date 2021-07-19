@@ -80,20 +80,20 @@
         
         <div class="row">
             <div class="campus-col">
-                <img src="./i/child 4.jpg" >
+                <img src="./images/child 4.jpg" >
                 <div class="layer">
                     <h3>Toronto</h3>
                 </div>
             </div>
             <div class="campus-col">
-                <img src="../IMAGES/child 6.jpg">
+                <img src="./images/child 6.jpg">
                 <div class="layer">
                     <h3> Montreal</h3>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo, odit!</p>
                 </div>
             </div>
             <div class="campus-col">
-                <img src="../IMAGES/child 5.jpg">
+                <img src="./images/child 5.jpg">
                 <div class="layer">
                     <h3>Ottawa</h3>
                 </div>
